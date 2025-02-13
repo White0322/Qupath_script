@@ -1,0 +1,2 @@
+selectObjectsByClassification("Tumor");
+classifySelected(null)
